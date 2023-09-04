@@ -1,0 +1,27 @@
+selector {
+    Property: value;
+    propertyTwo: value
+}
+
+.my-p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: 1px solid rgb(255, 7, 7);
+    border-radius: 5px;
+
+    
+}
+.it {
+    color:black;
+    font-weight: bolder;
+    font-size: 13px;
+    font-style: italic;
+
+}
+.bk {
+    color: white;
+    font-size: 11px;
+    font-family: monospace;
+    background-color: black;
+}
+
